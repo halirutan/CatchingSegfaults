@@ -1,6 +1,0 @@
-#ifndef CATCHINGSEGFAULTS_LIBRARY_H
-#define CATCHINGSEGFAULTS_LIBRARY_H
-
-void hello();
-
-#endif
